@@ -1,9 +1,9 @@
-The following modules are needed for the installation 
-    numpy 
-    pandas
-    opencv-python
-    keras
-    tensorflow
+## The following modules are needed for the installation 
+    #numpy 
+    #pandas
+    #opencv-python
+    #keras
+    #tensorflow
 
 
 # How To Run?
